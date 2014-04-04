@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-This is in a wrong place.
-=======
 Something cold. Very cold..
->>>>>>> coldfix
+This is in a wrong place.
